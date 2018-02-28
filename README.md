@@ -21,6 +21,7 @@ Ruby的变量有一定的规则，以$开头的一定是全局变量，以@开�
 •	Ruby 可以很容易地连接到 DB2、MySQL、Oracle 和 Sybase。
 •	Ruby 有丰富的内置函数，可以直接在 Ruby 脚本中使用。[5]
 
+
 Compass
 
 Compass是什么？
