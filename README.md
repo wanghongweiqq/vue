@@ -25,6 +25,7 @@ Ruby的变量有一定的规则，以$开头的一定是全局变量，以@开�
 Compass
 
 Compass是什么？
+
 简单说，Compass是Sass的工具库（toolkit）。
 Sass本身只是一个编译器，Compass在它的基础上，封装了一系列有用的模块和模板，补充Sass的功能。它们之间的关系，有点像Javascript和jQuery、Ruby和Rails、python和Django的关系。
 
